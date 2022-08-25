@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "app-project-ayurveda2",
+  "private_key_id": "62f587aefce9549ee6f2239ea2ec3e4b337f1d48",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCg7jjMW1SZ2F98\nuxlTExD+funmULNGH4wGaxjd94HPfFrFLuaXoypxFRAJqreoN6fxuTQADrK00iJ+\n3xxRXGNUgKTkS+YLmb2ILtsD0LEuevIgBtEP13tCDjPyGyKEuAX3CYJJZs+onO4/\nPLqAzzBRFekxV8tX5KKVKgtzIpQqrn8Q7attOhNFI2msYa6aU0i78d9IYaKa4D++\nDlfxHAeDN6bEziMsyhprmIpLYDQq6ZzY6acxjos8JbayrtEZv5+S23GlwhieUuhp\noC7SlFTFh9SoUYcf0PLfXfvbMuNfhGh0nWXcaSdC7jHqI/NsbJ4LX8O77GiwfXXX\n/BsS8BwLAgMBAAECggEADo2MYFqP+3uYIvjucNdEDaefcj7w/1HiAUCVFpmHySIX\nOUak/qh4MZK0iRNBmXoy+0aCv9CUc4qfKPb3IhpnNyCNCMIeUwU7oQGPt7gbFbdz\nhtbm9/ZGBLKxGt8+T18u1uiqugWMmNRcLSbKPNS/q01+cYJddpzL4Q5Uy7wgRv2s\n2s/4JI2rcGL2Ow9Kc6n2I0s7p5ZDCAyYyZm7naxHpNglYKKOhIYQHGABmoGn/P+7\nnWmIy7Y4xGEQcZC4NRWxDCQl1N8oC0liNBe3gGC2uCan5Xv94ltyv+Go1KjSJsVU\nAQ1rHcPdbjFlMzWsq/uULA6ODmP7V0KusRJJ1a6b7QKBgQDavc2tg+u7jpQlrFu1\nj8o2Okz1MUm08ZiDQXfoylA3Mw9+VBwcKRGork//9dQi48aHk56mH+41uWUpe4s6\nUx/BfnlJobYjRqCgPGYXvvE3qIeGFHcjyyIE1eTobYfFW9p7wn1iMKFQwaQ9IJRo\nIm451qFu+29Wzgms44yb52QIBQKBgQC8V5TswvpTvJb4lErC+8muIUIguBZ/bwZu\nZtZw57EKTFJOuJ6KHECR8c3uEqAnXadzpbMY2+7i83qaiSOkWQqDI1ejqbmLXTT+\nLuo9Fb6VAlVK6+QXVZN5amiF0Zhr74OIgh3CyHEdJjfRjn7wv8yqlnbWTGt1I1pd\nxmlH1mkgzwKBgQDN5sBGxtkNMcbuN3IUVAeqR/LNEtoowwom82dl75rWeu/ooE/d\niiMfPwX7EHHhbbshP6mlAoV+eMdq5upFup03zE9rKheC2Sa17mTDkW8KT09SvMzx\nGnMpThYtW3zkH/RnbsoLtW8Dz2NETvijlVVgiFJpX7CMa2HcJk3jK0qT6QKBgAQL\nIVBf8z3e+6LElEJRY4gQgLnxGdKMkKfIH2x3HO7qqo20Gvs+FgjMFy64SaXutcye\nzxSGjD9lGMm+jfxWSQp9tMD3wNsEGkImwbKkB95tGWWtYM07choWNb5BvLL8hmdk\n27y1zu/gRSyDkagbhgpXhp+dLmVqZ+NBgjsfmEwzAoGBAMzgafMbydcEXPzGL5g5\n6jGjNeaO+pyMW5X4yqZvmCeUeLGelIiU98K7RlFe8cj6jSFxWGz/aGEKkolCEz12\n6cF/K9Kk7Wxdu50xfEw7LYgXIFc9Tl7woCyiVX/wucYS8nOdnH3mMO8YIBsBAbbz\nJzupV/Dl3T7yDV18RwxMoa0D\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fex3r@app-project-ayurveda2.iam.gserviceaccount.com",
+  "client_id": "101433383279372882458",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fex3r%40app-project-ayurveda2.iam.gserviceaccount.com"
+}
